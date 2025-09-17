@@ -1,2 +1,4 @@
 print('hfh')
-print('bi')
+print('bi')''
+x=10
+print(x)
