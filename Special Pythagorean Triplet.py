@@ -4,5 +4,3 @@ for a in range(1,1001):
         if a+b+c==1000 :
             print(a*b*c)
             break
-
-
