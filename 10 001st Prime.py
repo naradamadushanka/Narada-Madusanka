@@ -1,1 +1,1 @@
-print('ghg')
+print('g')
